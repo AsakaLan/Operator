@@ -1,0 +1,6 @@
+domain: codehang
+layout:
+- go.kubebuilder.io/v3
+projectName: operator
+repo: Operator
+version: "3"
